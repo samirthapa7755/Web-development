@@ -10,3 +10,6 @@ color: red;
 .bg-yellow{
 background-color: yellow;
 }
+div>p{
+    color:blue;
+}

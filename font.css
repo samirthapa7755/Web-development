@@ -1,0 +1,18 @@
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:larger;
+    font-weight: 600;
+    text-indent: 25px;
+  }
+  p{
+    font-style: oblique;
+    color:red;
+    text-decoration: underline;
+    line-height:25px;
+    letter-spacing: 0cm;
+    text-transform: capitalize;
+    text-overflow:ellipsis;
+    /*width:12px;*/
+    text-decoration-style:dotted;
+  }
+  

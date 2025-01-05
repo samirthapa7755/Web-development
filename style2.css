@@ -1,0 +1,31 @@
+*{ /* universal selector*/
+    margin: 0;
+    padding: 0;
+}
+.box{ /*class selector*/
+background-color: blue;
+}
+.box1{
+    color:red;
+    margin: 5px;
+    padding:10px;
+    border:2px solid black;
+    box-sizing: border-box;
+}
+.box2{
+    color:yellow;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid violet;
+    box-sizing: border-box;
+}
+.box>p{
+    color:aqua;
+    margin: 5px;
+}
+.box p{
+    color: black;
+}
+a:hover{ /* active , visited , link*/
+    background-color: red;
+}
